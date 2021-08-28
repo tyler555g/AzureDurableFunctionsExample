@@ -6,10 +6,9 @@
       "name": "req",
       "type": "httpTrigger",
       "direction": "in",
-      "route": "orchestrators/{functionName}",
+      "route": "AddressParser",
       "methods": [
-        "post",
-        "get"
+        "post"
       ]
     },
     {
