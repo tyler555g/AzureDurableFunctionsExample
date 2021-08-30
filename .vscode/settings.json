@@ -7,5 +7,6 @@
     "debug.internalConsoleOptions": "neverOpen",
     "python.linting.prospectorEnabled": false,
     "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true
+    "python.linting.enabled": true,
+    "python.pythonPath": ".venv\\Scripts\\python.exe"
 }
