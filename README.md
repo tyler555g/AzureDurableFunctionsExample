@@ -5,6 +5,7 @@ Required:
 * [Visual Studio Code](https://code.visualstudio.com/) with the [Azure Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack) extension group installed.
 * Python (3.6, 3.7, 3.8, 3.9 are supported as of 2021-08-28)
 * [usaddress-scourgify](https://github.com/GreenBuildingRegistry/usaddress-scourgify) python package
+* [C++ 14.0 or greater](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
 ```
 pip install usaddress-scourgify
 ```
